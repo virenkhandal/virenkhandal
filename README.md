@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning C and refining my React.js skills
+🌱 I’m currently learning C and refining my React.js skills <br/>
 💬 I’m looking to collaborate on Python/Java open source projects!
 
 <!--
