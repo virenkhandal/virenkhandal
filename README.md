@@ -1,6 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning C and refining my React.js skills <br/>
+🌱 I’m currently learning OpenCV and PyTorch <br/>
+🔭 I’m currently working on a personal health-related machine learning project <br/>
 💬 I’m looking to collaborate on Python/Java open source projects!
+
 
 <!--
 **virenkhandal/virenkhandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
