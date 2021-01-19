@@ -1,6 +1,6 @@
 ### Hey there 👋
 🌱 I’m currently learning OpenCV and PyTorch <br/>
-🔭 I’m currently working on a personal health-related machine learning project <br/>
+🔭 I’m currently working on a NLP-based machine learning project <br/>
 💬 I’m looking to collaborate on Python/Java/C open source projects!
 
 
