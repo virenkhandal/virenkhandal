@@ -1,7 +1,9 @@
 ### Hey there 👋
-🌱 I’m currently learning about LSTMs and PyTorch <br/>
+🌱 I’m currently learning about LSTMs and GANs <br/>
+🤔 I hope to dive deeper into PyTorch and Theano <br/>
 🔭 I’m currently working on a deep learning ML project focused on the shortcomings of perception modules in autonomous vehicles <br/>
-💬 I’m looking to collaborate on Python/Java/C open source projects!
+💬 I’m looking to collaborate on Python/Java/C open source projects! <br/>
+🤪 In my freetime, I enjoy speed-cubing and doing crossword puzzles.
 
 
 <!--
