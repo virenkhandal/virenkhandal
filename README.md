@@ -1,9 +1,9 @@
 ### Hey there 👋
-🌱 I’m currently learning about LSTMs and GANs <br/>
-🤔 I hope to dive deeper into PyTorch and Theano <br/>
-🔭 I’m currently working on a Deep Learning ML project focused on the shortcomings of perception modules in autonomous vehicles (i.e. TinyYolo, SSD) <br/>
-💬 I’m looking to collaborate on Python/Java/C open source projects! <br/>
-🤪 In my freetime, I enjoy speed-cubing and doing crossword puzzles.
+🌱 I’m currently learning about Blockchain and RNNs <br/>
+🤔 I hope to dive deeper into LightGBM and Computational Proof Solvers (i.e. Ramanujan Machine, etc.) <br/>
+🔭 I’m currently working on a Full Stack Web Application that leverages Blockchain to deliver meaningful content on social media! <br/>
+💬 I’m looking to collaborate on Python/Java/Javascript open source projects! <br/>
+🤪 In my freetime, I enjoy speed-cubing, making music, and solving crossword puzzles.
 
 
 <!--
