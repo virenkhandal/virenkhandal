@@ -3,7 +3,7 @@
 🤔 I hope to dive deeper into multi-modal machine learning models... <br/><br/>
 🔭 I’m currently working on a Full Stack Web Application that leverages Blockchain to deliver meaningful content on social media! <br/><br/>
 💬 I’m looking to collaborate on Python/Java/Javascript open source projects! <br/><br/>
-🤪 In my freetime, I enjoy playing/watching chess, speed-cubing, and solving crossword puzzles.
+🤪 In my freetime, I enjoy playing the guitar, speed-cubing, and solving crossword puzzles.
 
 
 <!--
