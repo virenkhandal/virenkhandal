@@ -1,8 +1,8 @@
 ### Hey there 👋
-🌱 I’m currently learning about spatial modules  <br/><br/>
-🤔 I hope to dive deeper into multi-modal machine learning models... <br/><br/>
-🔭 I’m currently working on a Full Stack Web Application that leverages Blockchain to deliver meaningful content on social media! <br/><br/>
-💬 I’m looking to collaborate on Python/Java/Javascript open source projects! <br/><br/>
+🌱 I’m currently learning about quantitative finance <br/><br/>
+🤔 I hope to dive deeper into algorithmic training and the math behind it all (greeks, IV ranks, etc) <br/><br/>
+🔭 I’m currently working on a multi-agent algorithmic training platform. <br/><br/>
+💬 I’m looking to collaborate on Python open source projects! <br/><br/>
 🤪 In my freetime, I enjoy playing the guitar, speed-cubing, and solving crossword puzzles.
 
 
